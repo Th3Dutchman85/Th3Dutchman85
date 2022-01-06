@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Th3Dutchman85
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning algorithms
-- 💞️ I’m looking to collaborate on games
+- 💞️ I’m looking to create great games
 - 📫 How to reach me lucasveldman85@gmail.com
 
 <!---
